@@ -3,6 +3,8 @@ import "./App.css";
 import Counters from "./components/Counters";
 import NavBar from "./components/NavBar";
 
+// Adding a comment
+
 const App = () => {
   const [appState, setAppState] = useState({
     counters: [
