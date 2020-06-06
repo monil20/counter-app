@@ -3,7 +3,7 @@ import "./App.css";
 import Counters from "./components/Counters";
 import NavBar from "./components/NavBar";
 
-// Adding a comment
+// Adding a comment new
 
 const App = () => {
   const [appState, setAppState] = useState({
